@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	bank_after
+	
+bank_before	1.1044***
+	(0.0007)
+Constant	0.7298***
+	(0.0204)
+	
+Observations	222,396
+R-squared	0.9178
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
